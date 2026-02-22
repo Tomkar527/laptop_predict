@@ -4,8 +4,7 @@ seaborn
 matplotlib
 scipy
 scikit-learn==1.7.2
-pickle
 pandas
 numpy
 gunicorn  
-joblib
+
